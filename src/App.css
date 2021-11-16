@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  min-height: 100vh;
+  justify-self: flex-end;
+  height: auto;
+
+  
+
+}
+.titulo {
+  font-family: 'Pacifico';
+  font-size:xx-large;
+  color:paleturquoise;
+}
+
+
+
+

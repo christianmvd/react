@@ -1,0 +1,28 @@
+.contentList{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.contentList li{
+margin: 0 10px;
+
+}
+
+.leyenda {
+    text-decoration: underline;
+    font-family: 'Times new roman';
+    font-size:x-large;
+    color:paleturquoise;
+    margin-bottom: 2rem;
+    margin-top: 0px;
+  }
+
+  .card-text, .card-title{
+    color: black;
+    font-size: smaller;
+}
+.pantalla{
+  min-height: 100vh;
+}
+  

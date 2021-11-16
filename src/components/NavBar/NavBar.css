@@ -1,0 +1,23 @@
+
+
+
+.activeLink {
+    border: 2px white solid;
+    padding: 0.5rem;
+    border-radius: 4px;
+}
+
+.navIt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1rem;
+    color:white;
+    align-items: center;
+    text-decoration: none;
+    width: fit-content;
+   
+}
+NavLink{
+    padding: 0.5rem;
+}

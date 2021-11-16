@@ -1,0 +1,25 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    
+  }
+  
+  tr, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .celda1{
+      width:50%;
+  }
+  
+  .encabezado{
+      background-color: brown;
+  }
+
+  .pantalla{
+    min-height: 100vh;
+  }

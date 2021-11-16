@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(255, 192, 203);
+    color:black;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 0;
+    
+    left: 0;
+    bottom:0;
+}
+
+.legend{
+    width: 100%;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 5px;
+    margin: 0;
+}
